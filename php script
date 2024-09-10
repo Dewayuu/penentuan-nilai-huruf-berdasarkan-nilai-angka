@@ -48,7 +48,6 @@
         }
 
         // Menampilkan hasil
-        echo "<br><h3>Hasil:</h3>";
         echo "Nama Mahasiswa: " . $nama . "<br>";
         echo "NIM: " . $nim . "<br>";
         echo "Nilai Mahasiswa: " . $nilai . " ". "($grade)". "<br>";
