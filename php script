@@ -7,7 +7,7 @@
     <title>Tugas Pemrograman Internet</title>
 </head>
 <body>
-    <h2>Input Nilai Mahasiswa</h2>
+    <h2>Penilaian Mata Kuliah Pemrograman Internet</h2>
     <form method="POST">
         <label for="nama">Nama Mahasiswa:</label><br>
         <input type="text" id="nama" name="nama" required><br><br>
