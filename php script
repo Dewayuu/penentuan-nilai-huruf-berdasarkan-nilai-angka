@@ -15,7 +15,7 @@
         <label for="nim">NIM:</label><br>
         <input type="text" id="nim" name="nim" required><br><br>
         
-        <label for="nilai">Nilai (0-100):</label><br>
+        <label for="nilai">Nilai Mahasiswa (0-100):</label><br>
         <input type="number" id="nilai" name="nilai" min="0" max="100" required><br><br>
         
         <input type="submit" value="Submit">
